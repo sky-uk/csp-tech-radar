@@ -1,2 +1,2 @@
 # csp-tech-radar
-The Content Supply Platforms department techology radar.
+The Content Supply Platforms department technology radar.
