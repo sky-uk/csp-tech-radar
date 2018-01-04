@@ -29,4 +29,4 @@ Opinions are only visualised as blips on a radar if they are 'in motion'. i.e. O
 For more information please see the [ThoughtWorks Tech Radar FAQ](https://www.thoughtworks.com/radar/faq).
 
 ## Contributing
-wip
+Please follow the contribution guidelines [here](CONTRIBUTING.md)
