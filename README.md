@@ -21,10 +21,10 @@ Opinions are only visualised as blips on a radar if they are 'in motion'. i.e. O
 * Techniques
 
 **Rings:**
-* Adopt - Technologies that we should be using if appropriate for your problem.
-* Trial - Technologies that are ready for use and can be trialled by some teams if needed.
-* Assess - Technologies that we like the look of but are not yet sure they are ready for use.
-* Hold - Besides technologies that we know are not yet ready for use, we will also include technologies which should be avoided going forward.
+* Adopt - Mature and ready for use. You should be using these technologies if they are appropriate for your problem.
+* Trial - Proven to be ready for use but not yet widely used. Should be carefully monitored when used in production.
+* Assess - Something new that we are excited about but not yet sure it is production ready. Evidence why it solves a particular problem should be collected through some kind of POC.
+* Hold - We know these are not ready for use or we are actively avoiding going forward.
 
 For more information please see the [ThoughtWorks Tech Radar FAQ](https://www.thoughtworks.com/radar/faq).
 
