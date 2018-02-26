@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Semantic Versioning,adopt,techniques,TRUE,"Correctly versioning software isn't easy. Using a mature versioning scheme like <a href=""https://semver.org/"">Semantic Versioning</a> helps you version your software service APIs in a way that allows consumers of your service to easily understand the severity of the changes in the new version."
+Semantic Versioning,adopt,techniques,TRUE,"Correctly versioning software that makes sense to everyone using it isn't easy. Using a mature versioning scheme like <a href=""https://semver.org/"">Semantic Versioning</a> helps you version your software service APIs in a way that allows consumers of your service to easily understand the severity of the changes in the new version."
 Pipelines as Code,adopt,techniques,TRUE,Pipelines as code is defining the build and deployment pipeline declaratively through code instead of configuring it in a specific CI/CD tooling.
 Health check pages,adopt,techniques,TRUE,Adding simple health check pages to applications is incredibly useful. This allows people to quickly understand the health of an individual node.
 12 Factor Apps,adopt,techniques,TRUE,The twelve-factor app is a methodology for building software-as-a-service apps.
