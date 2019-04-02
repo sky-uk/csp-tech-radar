@@ -29,4 +29,7 @@ Opinions are only visualised as blips on a radar if they are 'in motion'. i.e. O
 For more information please see the [ThoughtWorks Tech Radar FAQ](https://www.thoughtworks.com/radar/faq).
 
 ## Contributing
-Please follow the contribution guidelines [here](CONTRIBUTING.md)
+Please follow the contributing guidelines [here](CONTRIBUTING.md)
+
+## Testing Your Changes
+It's best to test any changes you want to the [radar](csp-tech-radar.csv) CSV file by pushing them to github in a new branch (as per the contributing guidelines above). Navigating to the [radar](csp-tech-radar.csv) CSV file on github for your new branch (not on master!) and select the "Raw" view of the file. You can then copy the link to this file and enter it into the [ThoughtWorks radar tool](https://radar.thoughtworks.com) to render it with your changes.
