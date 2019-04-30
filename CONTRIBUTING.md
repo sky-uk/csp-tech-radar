@@ -5,11 +5,11 @@ Before contributing, please search issues and pull requests before adding someth
 
 ## Rules
 All Contributions are more than welcome but must be submitted using Pull Requests with following guidelines.
-Before submitting new technologies, it may be worth raising and discussing the topic in an Issue first.
 
 ### Pull Requests
-* Create a new local branch for your work in.
-* Push your branch with your changes to the origin and raise a Pull Request. Make sure you give enough information in the pull request description to describe the new or changed opinion.
+* Create a new local branch for your work and make your desired changes to the [csp-tech-radar.csv](csp-tech-radar.csv).
+* Push your branch with your changes to the origin and test the changes render correctly in the [Thoughtworks Radar Tool](https://radar.thoughtworks.com/) as per the [README](README.md) testing guidelines.
+* When you are happy, raise a Pull Request from your branch to master. Make sure you give enough information in the pull request description to describe the new or changed opinion.
 * Your Pull Request must be reviewed by at least two core maintainers.
 * One of the core maintainers will merge the change.
 
