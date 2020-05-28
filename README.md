@@ -15,10 +15,10 @@ The opinions are categorised into quadrants and rings on the radar as per the no
 Opinions are only visualised as blips on a radar if they are 'in motion'. i.e. Only changed or new opinions are shown.
 
 **Quadrants:**
-* Programming Languages and Frameworks
-* Tools
-* Platforms
-* Techniques
+* Languages & Frameworks - What we write our software in (Development)
+* Platforms - What we run our software systems on and where we persist our data (Operations)
+* Tools - What we use on the side to improve the way we develop and operate our systems (Dev & Ops)
+* Techniques - What methods & practices we follow
 
 **Rings:**
 * Adopt - Mature and ready for use. You should be using these technologies if they are appropriate for your problem.
