@@ -1,0 +1,25 @@
+@startuml contributing-process
+
+:New opinion;
+
+if (1. Existing Issue or PR?) then (yes)
+    :Use existing conversation;
+else (no)
+    :2. Raise new issue;
+endif
+
+:Proposal reviewed;
+
+if (Proposal Accepted?) then (yes)
+    :3. Raise Pull Request;
+else (no)
+    :Issue cloased;
+    stop
+endif
+
+:Final review;
+
+:Pull Request merged and closed;
+stop
+
+@enduml
