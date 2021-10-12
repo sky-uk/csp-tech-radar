@@ -1,17 +1,15 @@
 <!--
   Thanks for submitting a pull request!
   Please provide enough information so that others can review your pull request.
+-->
 
-  Before submitting a pull request, please make sure the following is done:
-  1. Clone [the repository](https://github.com/sky-uk/csp-tech-radar) and create your branch from `master`.
-  2. Update csp-tech-radar.csv, keeping in mind that opinions are categorized into quadrants, and provide any reasoning about whether we would like to hold/assess/trial or adopt this tech.
-  3. Identify any other team(s) who you believe might be already using this or looking to use this tech (OPTIONAL)
-  4. Label the PR with the appropriate quadrant.
-  5. Link the PR to any related issue.
+<!--
+If you are submitting a Pull Request to add or update an entry on the Tech Radar, please be sure to follow our Contributing Guidelines described in the project README.
+Please make sure the following is submitted with your PR:
+  1. Give the related issue that this PR is trying to address.
+  2. A link to test that the changes are render correctly in the [Thoughtworks Radar Tool](https://radar.thoughtworks.com/) as per the [README](README.md) testing guidelines.
 -->
 
 ## Summary <!-- Brief description of changes or reference to the issue this PR is trying to resolve. -->
 
-## Opinion(s) <!-- Reasoning about whether we would like to HOLD, ASSESS, TRIAL or ADOPT and why? -->
-  
-## Teams interested in this tech <!-- Any other teams you are aware of using any of the mentioned tech or showing interest? -->
+## Visualisation link for branch <!-- A link to the Thoughtworks Radar Tool with this PR's branch as the data source -->
