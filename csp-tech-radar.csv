@@ -24,7 +24,7 @@ Wiremock,adopt,tools,FALSE,"A tool for building mock APIs<br /><br /><p><strong>
 Xunit,adopt,tools,FALSE,A unit testing tool for the .NET platforms.<br /><br /><p><strong>Teams: </strong>Olympus</p>
 AWS,adopt,platforms,FALSE,"Amazon Web Services<br /><br /><p><strong>Teams: </strong>Vesuvius, K2, Rosa, Bianco, Huascaran</p>"
 Core Platform,adopt,platforms,FALSE,"A platform internal to Sky manages Ci/CD processes.<br />To go to on hold<br /><br /><p><strong>Teams: </strong>Wrights, Olympus, Krakatoa, Everest, Rockies, Gonzales, K2, Rosa, Fuji</p>"
-On Prem M25 (SLU & HHE),hold,platforms,FALSE,...<br /><br /><p><strong>Teams: </strong>Gonzales</p>
+On Prem Servers,hold,platforms,FALSE,"With Sky's direction to migrate to the cloud, on-prem solutions such as M25 datacentres, UNIX and Windows Server VMs are being replaced by Cloud solutions.<br /><br /><p><strong>Teams: </strong>Gonzales, Matterhorn, Etna, Krakatoa, Wrights, Olympus, Everest, Rockies, Vesuvius, K2, Rosa, Bianco</p>
 On Prem Unix VM,hold,platforms,FALSE,Unix working on a virtual machine on-premise.<br /><br /><p><strong>Teams: </strong>Matterhorn</p>
 On Prem Windows Server,hold,platforms,FALSE,Windows Server working on-premise.<br /><br /><p><strong>Teams: </strong>Etna</p>
 On Prem Windows Server 2012 (VDC) ,hold,platforms,FALSE,Windows Server 2012 (Virtualized Domain Controller Deployment) working on on-premise.<br /><br /><p><strong>Teams: </strong>Krakatoa</p>
